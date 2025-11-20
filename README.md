@@ -317,6 +317,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
 - [Capt. Michael](https://captmichael.dev) [Mern Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
+- [Cate Rivera](https://catherinerivera.com) [Game Designer and Developer]
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Cemal Türkcan)](https://cemalturkcan.com)
 - [Cesar Gonzalez Anaya](https://www.caesarcode.com.mx/index.html) [Fullstack Developer]
