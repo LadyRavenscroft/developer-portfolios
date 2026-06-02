@@ -313,6 +313,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## C
 
+- [Cate Rivera](https://caterivera.com)  [Game AI/Simulation Engineer]
 - [Cade Kynaston](https://cade.codes)
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
 - [Capt. Michael](https://captmichael.dev) [Mern Full Stack Developer]
